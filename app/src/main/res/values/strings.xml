@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUD Mahasiswa</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_hapus">Update / Hapus data</string>
+</resources>
